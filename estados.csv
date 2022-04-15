@@ -1,28 +1,28 @@
-﻿Código UF,Unidade da Federação,UF
-12,Acre,AC
-27,Alagoas,AL
-16,Amapá,AP
-13,Amazonas,AM
-29,Bahia,BA
-23,Ceará,CE
-53,Distrito Federal,DF
-32,Espírito Santo,ES
-52,Goiás,GO
-21,Maranhão,MA
-51,Mato Grosso,MT
-50,Mato Grosso do Sul,MS
-31,Minas Gerais,MG
-15,Pará,PA
-25,Paraíba,PB
-41,Paraná,PR
-26,Pernambuco,PE
-22,Piauí,PI
-33,Rio de Janeiro,RJ
-24,Rio Grande do Norte,RN
-43,Rio Grande do Sul,RS
-11,Rondônia,RO
-14,Roraima,RR
-42,Santa Catarina,SC
-35,São Paulo,SP
-28,Sergipe,SE
-17,Tocantins,TO
+﻿Código UF,Unidade da Federação,UF,População
+12,Acre,AC,906876
+27,Alagoas,AL,3365351
+16,Amapá,AP,877613
+13,Amazonas,AM,4269995
+29,Bahia,BA,14985284
+23,Ceará,CE,9240580
+53,Distrito Federal,DF,3094325
+32,Espírito Santo,ES,4108508
+52,Goiás,GO,7206589
+21,Maranhão,MA,7153262
+51,Mato Grosso,MT,3567234
+50,Mato Grosso do Sul,MS,2839188
+31,Minas Gerais,MG,21411923
+15,Pará,PA,8777124
+25,Paraíba,PB,4059905
+41,Paraná,PR,11597484
+26,Pernambuco,PE,9674793
+22,Piauí,PI,3289290
+33,Rio de Janeiro,RJ,17463349
+24,Rio Grande do Norte,RN,3560903
+43,Rio Grande do Sul,RS,11466630
+11,Rondônia,RO,1815278
+14,Roraima,RR,652713
+42,Santa Catarina,SC,7338473
+35,São Paulo,SP,46649132
+28,Sergipe,SE,2338474
+17,Tocantins,TO,1607363
